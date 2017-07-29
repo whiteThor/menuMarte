@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Señales de Marte</string>
+    <string name="key">name</string>
+    <string name="start_your_adventure">Comienza tu Aventura</string>
+    <string name="input_your_names">Introduzca su nombre</string>
+
+    <string name="page0">En su viaje de regreso desde el estudio de los anillos de Saturno, se oye una señal de socorro que parece venir de la superficie de Marte. Es extraño porque no ha habido una colonia allí en años. Incluso más extraño, te está llamando por tu nombre: \"Ayudame, %1$s, tu eres mi unica esperanza.\"</string>
+    <string name="page0_choice1">Detenerse e investigar</string>
+    <string name="page0_choice2">Continuar a casa a la Tierra</string>
+
+    <string name="page1">Tu hábilmente aterriza su nave cerca de donde se originó la señal de socorro. No notaste nada extraño en tu vuelo, pero hay una cueva delante de ti. Detrás de ti es un Rover abandonado de principios del siglo XXI.</string>
+    <string name="page1_choice1">Explorar la cueva</string>
+    <string name="page1_choice2">Explorar el Rover</string>
+
+    <string name="page2">Tu continúas tu curso a la tierra. Dos días más tarde, recibes una transmisión de HQ diciendo que han detectado algún tipo de anomalía en la superficie de Marte cerca de un Rober abandonado. Te piden que investigues, pero en última instancia la decisión es tuya porque tu misión ya ha tomado mucho más tiempo de lo planeado y los suministros son bajos.</string>
+    <string name="page2_choice1">Regresar a Marte para investigar</string>
+    <string name="page2_choice2">Continuar a casa a la Tierra</string>
+
+    <string name="page3">Su traje EVA está equipado con un faro, tu lo utilizas para navegar por la cueva. Después de buscar durante un tiempo tus niveles de oxígeno están empezando a bajar bastante. Sabes que deberías ir a llenar tu tanque, pero hay una luz muy débil por delante.</string>
+    <string name="page3_choice1">Recarga en la nave y explorar el rover</string>
+    <string name="page3_choice2">Continuar hacia la luz débil</string>
+
+    <string name="page4">El rover está cubierto de polvo y la mayoría de los paneles solares están rotos. Pero tu estas bastante sorprendido al ver el sistema de a bordo iniciado y funcionando. De hecho, hay un mensaje en la pantalla: \"%1$s, ven a 28.543436, -81.369031.\" Esas coordenadas no están lejos, pero tu no sabe si su oxígeno durará para un viaje ida y vuelta.</string>
+    <string name="page4_choice1">Explorar las Coordenadas</string>
+    <string name="page4_choice2">Volver a la Tierra</string>
+
+    <string name="page5">Después de un largo paseo ligeramente cuesta arriba, que terminan en la parte superior de un pequeño cráter. Miras a tu alrededor y te alegras de ver a tu androide favorito,%1$s-S1124. Se había perdido en una misión anterior a Marte! Lo llevas de regreso a tu nave y vuelas a la Tierra.</string>
+
+    <string name="page6">Llegas a casa en la Tierra. Mientras que su misión fue un éxito, tu siempre te preguntaras qué estaba enviando esa señal. Tal vez una misión futura,  será necesario investigar ...</string>
+    <string name="image_story_activity_resourse">Image Story activity</string>
+    <string name="play_again_button_text">OTRA VEZ</string>
+    <string name="Nueva_aventura">IR A UNA NUEVA AVENTURA</string>
+    <string name="Guest_Text">Invitado</string>
+    <string name="cap0">Inicio</string>
+    <string name="cap1">Capitulo 1</string>
+    <string name="cap2">Capitulo 2</string>
+    <string name="cap3">Capitulo 3</string>
+    <string name="cap4">Capitulo 4</string>
+    <string name="cap5">Capitulo 5</string>
+    <string name="cap6">Capitulo 6</string>
+    <string name="acerca">Acerca de</string>
+    <string name="acerca_text">Desarrollado por: Ing. Ruben Vilchez, 28/07/2017, todos los derechos reservados</string>
+    <string name="acerca_title">Acerca del Dasarrollador</string>
+</resources>
