@@ -2,6 +2,7 @@ package marte.ruben.com.manumarte.model;
 
 /**
  * Created by Ruben Vilchez on 08/07/2017.
+ * anotaciones|
  */
 
 public class Page {
